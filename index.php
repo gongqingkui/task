@@ -19,7 +19,7 @@
 </head>
 
 <body>
-  <?php require_once 'function.php';?>
+  <?php require_once "inc/function.php";?>
   <div id="header">Task</div>
   <div id="oper">
      <form>
